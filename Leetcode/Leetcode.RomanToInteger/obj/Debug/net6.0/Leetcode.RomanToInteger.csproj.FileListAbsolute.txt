@@ -1,0 +1,15 @@
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.csproj.AssemblyReference.cache
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.AssemblyInfoInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.AssemblyInfo.cs
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.csproj.CoreCompileInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\bin\Debug\net6.0\Leetcode.RomanToInteger.exe
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\bin\Debug\net6.0\Leetcode.RomanToInteger.deps.json
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\bin\Debug\net6.0\Leetcode.RomanToInteger.runtimeconfig.json
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\bin\Debug\net6.0\Leetcode.RomanToInteger.dll
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\bin\Debug\net6.0\Leetcode.RomanToInteger.pdb
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.dll
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\refint\Leetcode.RomanToInteger.dll
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.pdb
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\Leetcode.RomanToInteger.genruntimeconfig.cache
+E:\Projects\NET\Leetcode\Leetcode.RomanToInteger\obj\Debug\net6.0\ref\Leetcode.RomanToInteger.dll

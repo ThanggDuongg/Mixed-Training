@@ -1,0 +1,15 @@
+E:\Projects\NET\ExpressionTree\ExpressionTree\bin\Debug\net6.0\ExpressionTree.exe
+E:\Projects\NET\ExpressionTree\ExpressionTree\bin\Debug\net6.0\ExpressionTree.deps.json
+E:\Projects\NET\ExpressionTree\ExpressionTree\bin\Debug\net6.0\ExpressionTree.runtimeconfig.json
+E:\Projects\NET\ExpressionTree\ExpressionTree\bin\Debug\net6.0\ExpressionTree.dll
+E:\Projects\NET\ExpressionTree\ExpressionTree\bin\Debug\net6.0\ExpressionTree.pdb
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.csproj.AssemblyReference.cache
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.AssemblyInfoInputs.cache
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.AssemblyInfo.cs
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.csproj.CoreCompileInputs.cache
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.dll
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\refint\ExpressionTree.dll
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.pdb
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ExpressionTree.genruntimeconfig.cache
+E:\Projects\NET\ExpressionTree\ExpressionTree\obj\Debug\net6.0\ref\ExpressionTree.dll

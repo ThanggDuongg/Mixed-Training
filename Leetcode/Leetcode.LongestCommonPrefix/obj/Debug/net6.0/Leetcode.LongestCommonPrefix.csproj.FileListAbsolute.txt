@@ -1,0 +1,15 @@
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\bin\Debug\net6.0\Leetcode.LongestCommonPrefix.exe
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\bin\Debug\net6.0\Leetcode.LongestCommonPrefix.deps.json
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\bin\Debug\net6.0\Leetcode.LongestCommonPrefix.runtimeconfig.json
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\bin\Debug\net6.0\Leetcode.LongestCommonPrefix.dll
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\bin\Debug\net6.0\Leetcode.LongestCommonPrefix.pdb
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.csproj.AssemblyReference.cache
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.AssemblyInfoInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.AssemblyInfo.cs
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.csproj.CoreCompileInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.dll
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\refint\Leetcode.LongestCommonPrefix.dll
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.pdb
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\Leetcode.LongestCommonPrefix.genruntimeconfig.cache
+E:\Projects\NET\Leetcode\Leetcode.LongestCommonPrefix\obj\Debug\net6.0\ref\Leetcode.LongestCommonPrefix.dll

@@ -1,0 +1,15 @@
+E:\Projects\NET\FoundationOfLinq\bin\Debug\net6.0\FoundationOfLinq.exe
+E:\Projects\NET\FoundationOfLinq\bin\Debug\net6.0\FoundationOfLinq.deps.json
+E:\Projects\NET\FoundationOfLinq\bin\Debug\net6.0\FoundationOfLinq.runtimeconfig.json
+E:\Projects\NET\FoundationOfLinq\bin\Debug\net6.0\FoundationOfLinq.dll
+E:\Projects\NET\FoundationOfLinq\bin\Debug\net6.0\FoundationOfLinq.pdb
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.csproj.AssemblyReference.cache
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.AssemblyInfoInputs.cache
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.AssemblyInfo.cs
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.csproj.CoreCompileInputs.cache
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.dll
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\refint\FoundationOfLinq.dll
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.pdb
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\FoundationOfLinq.genruntimeconfig.cache
+E:\Projects\NET\FoundationOfLinq\obj\Debug\net6.0\ref\FoundationOfLinq.dll
