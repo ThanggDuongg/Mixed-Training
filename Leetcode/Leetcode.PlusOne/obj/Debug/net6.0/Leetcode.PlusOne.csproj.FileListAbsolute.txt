@@ -1,0 +1,15 @@
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.csproj.AssemblyReference.cache
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.AssemblyInfoInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.AssemblyInfo.cs
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.csproj.CoreCompileInputs.cache
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\bin\Debug\net6.0\Leetcode.PlusOne.exe
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\bin\Debug\net6.0\Leetcode.PlusOne.deps.json
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\bin\Debug\net6.0\Leetcode.PlusOne.runtimeconfig.json
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\bin\Debug\net6.0\Leetcode.PlusOne.dll
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\bin\Debug\net6.0\Leetcode.PlusOne.pdb
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.dll
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\refint\Leetcode.PlusOne.dll
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.pdb
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\Leetcode.PlusOne.genruntimeconfig.cache
+E:\Projects\NET\Leetcode\Leetcode.PlusOne\obj\Debug\net6.0\ref\Leetcode.PlusOne.dll
