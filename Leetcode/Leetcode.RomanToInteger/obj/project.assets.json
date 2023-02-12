@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\NET\\Leetcode\\Leetcode.RomanToInteger\\Leetcode.RomanToInteger.csproj",
+      "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.RomanToInteger\\Leetcode.RomanToInteger.csproj",
       "projectName": "Leetcode.RomanToInteger",
-      "projectPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.RomanToInteger\\Leetcode.RomanToInteger.csproj",
+      "projectPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.RomanToInteger\\Leetcode.RomanToInteger.csproj",
       "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.RomanToInteger\\obj\\",
+      "outputPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.RomanToInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

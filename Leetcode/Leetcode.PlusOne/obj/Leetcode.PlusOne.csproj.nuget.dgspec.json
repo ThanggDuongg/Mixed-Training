@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj",
         "projectName": "Leetcode.PlusOne",
-        "projectPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.PlusOne\\Leetcode.PlusOne.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.PlusOne\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.PlusOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

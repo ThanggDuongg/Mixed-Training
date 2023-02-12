@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\bin\Debug\net6.0\Leetcode.Sqrt(x).exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\bin\Debug\net6.0\Leetcode.Sqrt(x).deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\bin\Debug\net6.0\Leetcode.Sqrt(x).runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\bin\Debug\net6.0\Leetcode.Sqrt(x).dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\bin\Debug\net6.0\Leetcode.Sqrt(x).pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\refint\Leetcode.Sqrt(x).dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\Leetcode.Sqrt(x).genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.Sqrt(x)\obj\Debug\net6.0\ref\Leetcode.Sqrt(x).dll

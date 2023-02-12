@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mN7tt2bhjbVfN7yS+FqcOfOBCRUBvF/Ys0QjieNw2zod1Aqg7l/RS5SJjCDvIPd3AUAFXn2Pw0DHwIRIocN5g==",
+  "dgSpecHash": "5KVJtnV/6EUvROl8GKxuKxIy9Bo7jlhFylG6ZYzMf7rITygHw8+rsey2Wotqd2UBg2ZDmNjCgc0BdkH3VSfadQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\NET\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
+  "projectFilePath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

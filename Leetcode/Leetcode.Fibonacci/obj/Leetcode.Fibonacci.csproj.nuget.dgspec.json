@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj",
         "projectName": "Leetcode.Fibonacci",
-        "projectPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.Fibonacci\\Leetcode.Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.Fibonacci\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

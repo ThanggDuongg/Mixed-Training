@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj",
         "projectName": "ExpressionTree",
-        "projectPath": "E:\\Projects\\NET\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\ExpressionTree\\ExpressionTree\\ExpressionTree.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\ExpressionTree\\ExpressionTree\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\ExpressionTree\\ExpressionTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

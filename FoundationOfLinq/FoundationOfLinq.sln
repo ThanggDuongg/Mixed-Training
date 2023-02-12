@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PullBased", "..\PullBased\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.PlusOne", "..\Leetcode\Leetcode.PlusOne\Leetcode.PlusOne.csproj", "{53C7A255-D711-4F6B-AA52-28BFCC7BB2BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queryable", "..\Queryable\Queryable.csproj", "{568D9C67-BB01-4DB3-9456-7ECC9F597E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queryable", "..\Queryable\Queryable.csproj", "{568D9C67-BB01-4DB3-9456-7ECC9F597E6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode.Sqrt(x)", "..\Leetcode\Leetcode.Sqrt(x)\Leetcode.Sqrt(x).csproj", "{F669A134-AC84-4201-B586-428177F1AFFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{568D9C67-BB01-4DB3-9456-7ECC9F597E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568D9C67-BB01-4DB3-9456-7ECC9F597E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568D9C67-BB01-4DB3-9456-7ECC9F597E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F669A134-AC84-4201-B586-428177F1AFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F669A134-AC84-4201-B586-428177F1AFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F669A134-AC84-4201-B586-428177F1AFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F669A134-AC84-4201-B586-428177F1AFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

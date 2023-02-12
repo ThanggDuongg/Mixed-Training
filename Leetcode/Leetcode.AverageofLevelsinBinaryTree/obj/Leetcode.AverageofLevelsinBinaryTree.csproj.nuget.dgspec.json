@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
         "projectName": "Leetcode.AverageofLevelsinBinaryTree",
-        "projectPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -143,11 +143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\NET\\PullBased\\PullBased.csproj",
+      "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\PullBased\\PullBased.csproj",
       "projectName": "PullBased",
-      "projectPath": "E:\\Projects\\NET\\PullBased\\PullBased.csproj",
+      "projectPath": "E:\\Projects\\NETs\\NETRevise\\PullBased\\PullBased.csproj",
       "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\NET\\PullBased\\obj\\",
+      "outputPath": "E:\\Projects\\NETs\\NETRevise\\PullBased\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\PushBased\\PushBased.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\PushBased\\PushBased.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\PushBased\\PushBased.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\PushBased\\PushBased.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\PushBased\\PushBased.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\PushBased\\PushBased.csproj",
         "projectName": "PushBased",
-        "projectPath": "E:\\Projects\\NET\\PushBased\\PushBased.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\PushBased\\PushBased.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\PushBased\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\PushBased\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

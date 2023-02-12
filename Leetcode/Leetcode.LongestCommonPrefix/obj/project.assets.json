@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\NET\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
+      "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
       "projectName": "Leetcode.LongestCommonPrefix",
-      "projectPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
+      "projectPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.LongestCommonPrefix\\Leetcode.LongestCommonPrefix.csproj",
       "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\NET\\Leetcode\\Leetcode.LongestCommonPrefix\\obj\\",
+      "outputPath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.LongestCommonPrefix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

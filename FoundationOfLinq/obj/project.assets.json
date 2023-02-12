@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\NET\\FoundationOfLinq\\FoundationOfLinq.csproj",
+      "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\FoundationOfLinq\\FoundationOfLinq.csproj",
       "projectName": "FoundationOfLinq",
-      "projectPath": "E:\\Projects\\NET\\FoundationOfLinq\\FoundationOfLinq.csproj",
+      "projectPath": "E:\\Projects\\NETs\\NETRevise\\FoundationOfLinq\\FoundationOfLinq.csproj",
       "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\NET\\FoundationOfLinq\\obj\\",
+      "outputPath": "E:\\Projects\\NETs\\NETRevise\\FoundationOfLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

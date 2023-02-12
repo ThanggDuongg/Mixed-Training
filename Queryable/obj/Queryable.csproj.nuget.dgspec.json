@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\NET\\Queryable\\Queryable.csproj": {}
+    "E:\\Projects\\NETs\\NETRevise\\Queryable\\Queryable.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\NET\\Queryable\\Queryable.csproj": {
+    "E:\\Projects\\NETs\\NETRevise\\Queryable\\Queryable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\NET\\Queryable\\Queryable.csproj",
+        "projectUniqueName": "E:\\Projects\\NETs\\NETRevise\\Queryable\\Queryable.csproj",
         "projectName": "Queryable",
-        "projectPath": "E:\\Projects\\NET\\Queryable\\Queryable.csproj",
+        "projectPath": "E:\\Projects\\NETs\\NETRevise\\Queryable\\Queryable.csproj",
         "packagesPath": "C:\\Users\\Thangg Duongg\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\NET\\Queryable\\obj\\",
+        "outputPath": "E:\\Projects\\NETs\\NETRevise\\Queryable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thangg Duongg\\AppData\\Roaming\\NuGet\\NuGet.Config",

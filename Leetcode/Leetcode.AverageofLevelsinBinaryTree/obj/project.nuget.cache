@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7sTnS5yzNZhad2GdQzAWzpAeJxmngA0649d8OD9UNTwPXkZ1zJMqIF6kkDFcXoOT4uLplC8DpW1WPQik8cRgDA==",
+  "dgSpecHash": "yhCFzgdQvvawYlKmxsGWNnUU3eMFvPzdBvR13EAgN3ajip0LbuZt4xPTaEI/oV8zN7Ys7+fJFqiZiqAz3wT3yQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\NET\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
+  "projectFilePath": "E:\\Projects\\NETs\\NETRevise\\Leetcode\\Leetcode.AverageofLevelsinBinaryTree\\Leetcode.AverageofLevelsinBinaryTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
