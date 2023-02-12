@@ -1,0 +1,15 @@
+E:\Projects\NET\Queryable\bin\Debug\net6.0\Queryable.exe
+E:\Projects\NET\Queryable\bin\Debug\net6.0\Queryable.deps.json
+E:\Projects\NET\Queryable\bin\Debug\net6.0\Queryable.runtimeconfig.json
+E:\Projects\NET\Queryable\bin\Debug\net6.0\Queryable.dll
+E:\Projects\NET\Queryable\bin\Debug\net6.0\Queryable.pdb
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.csproj.AssemblyReference.cache
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.AssemblyInfoInputs.cache
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.AssemblyInfo.cs
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.csproj.CoreCompileInputs.cache
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.dll
+E:\Projects\NET\Queryable\obj\Debug\net6.0\refint\Queryable.dll
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.pdb
+E:\Projects\NET\Queryable\obj\Debug\net6.0\Queryable.genruntimeconfig.cache
+E:\Projects\NET\Queryable\obj\Debug\net6.0\ref\Queryable.dll
