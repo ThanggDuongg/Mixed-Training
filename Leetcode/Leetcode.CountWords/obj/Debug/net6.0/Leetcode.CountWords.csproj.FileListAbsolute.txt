@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\bin\Debug\net6.0\Leetcode.CountWords.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\bin\Debug\net6.0\Leetcode.CountWords.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\bin\Debug\net6.0\Leetcode.CountWords.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\bin\Debug\net6.0\Leetcode.CountWords.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\bin\Debug\net6.0\Leetcode.CountWords.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\refint\Leetcode.CountWords.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\Leetcode.CountWords.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.CountWords\obj\Debug\net6.0\ref\Leetcode.CountWords.dll

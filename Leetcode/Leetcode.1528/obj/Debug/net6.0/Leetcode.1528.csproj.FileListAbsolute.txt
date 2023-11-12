@@ -1,0 +1,5 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.1528\obj\Debug\net6.0\Leetcode.1528.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.1528\obj\Debug\net6.0\Leetcode.1528.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.1528\obj\Debug\net6.0\Leetcode.1528.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.1528\obj\Debug\net6.0\Leetcode.1528.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.1528\obj\Debug\net6.0\Leetcode.1528.csproj.CoreCompileInputs.cache

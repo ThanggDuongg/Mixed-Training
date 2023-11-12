@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\bin\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\bin\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\bin\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\bin\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\bin\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\refint\Leetcode.FindLuckyIntegerinanArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\Leetcode.FindLuckyIntegerinanArray.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.FindLuckyIntegerinanArray\obj\Debug\net6.0\ref\Leetcode.FindLuckyIntegerinanArray.dll

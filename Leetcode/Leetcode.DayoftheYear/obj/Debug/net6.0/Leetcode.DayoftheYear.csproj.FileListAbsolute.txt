@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\bin\Debug\net6.0\Leetcode.DayoftheYear.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\bin\Debug\net6.0\Leetcode.DayoftheYear.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\bin\Debug\net6.0\Leetcode.DayoftheYear.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\bin\Debug\net6.0\Leetcode.DayoftheYear.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\bin\Debug\net6.0\Leetcode.DayoftheYear.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\refint\Leetcode.DayoftheYear.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\Leetcode.DayoftheYear.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DayoftheYear\obj\Debug\net6.0\ref\Leetcode.DayoftheYear.dll

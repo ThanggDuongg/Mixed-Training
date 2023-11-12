@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\bin\Debug\net6.0\Leetcode.ConcatenationofArray.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\bin\Debug\net6.0\Leetcode.ConcatenationofArray.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\bin\Debug\net6.0\Leetcode.ConcatenationofArray.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\bin\Debug\net6.0\Leetcode.ConcatenationofArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\bin\Debug\net6.0\Leetcode.ConcatenationofArray.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\refint\Leetcode.ConcatenationofArray.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\Leetcode.ConcatenationofArray.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ConcatenationofArray\obj\Debug\net6.0\ref\Leetcode.ConcatenationofArray.dll

@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\bin\Debug\net6.0\Leetcode.ReverseString.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\bin\Debug\net6.0\Leetcode.ReverseString.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\bin\Debug\net6.0\Leetcode.ReverseString.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\bin\Debug\net6.0\Leetcode.ReverseString.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\bin\Debug\net6.0\Leetcode.ReverseString.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\refint\Leetcode.ReverseString.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\Leetcode.ReverseString.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.ReverseString\obj\Debug\net6.0\ref\Leetcode.ReverseString.dll

@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\bin\Debug\net6.0\Leetcode.DefanginganIPAddress.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\bin\Debug\net6.0\Leetcode.DefanginganIPAddress.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\bin\Debug\net6.0\Leetcode.DefanginganIPAddress.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\bin\Debug\net6.0\Leetcode.DefanginganIPAddress.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\bin\Debug\net6.0\Leetcode.DefanginganIPAddress.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\refint\Leetcode.DefanginganIPAddress.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\Leetcode.DefanginganIPAddress.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.DefanginganIPAddress\obj\Debug\net6.0\ref\Leetcode.DefanginganIPAddress.dll

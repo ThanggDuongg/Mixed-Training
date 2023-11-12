@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\bin\Debug\net6.0\Leetcode.SumMax.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\bin\Debug\net6.0\Leetcode.SumMax.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\bin\Debug\net6.0\Leetcode.SumMax.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\bin\Debug\net6.0\Leetcode.SumMax.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\bin\Debug\net6.0\Leetcode.SumMax.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\refint\Leetcode.SumMax.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\Leetcode.SumMax.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.SumMax\obj\Debug\net6.0\ref\Leetcode.SumMax.dll

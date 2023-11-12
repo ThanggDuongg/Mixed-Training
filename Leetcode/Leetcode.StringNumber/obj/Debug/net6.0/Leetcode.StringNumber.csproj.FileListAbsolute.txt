@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\bin\Debug\net6.0\Leetcode.StringNumber.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\bin\Debug\net6.0\Leetcode.StringNumber.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\bin\Debug\net6.0\Leetcode.StringNumber.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\bin\Debug\net6.0\Leetcode.StringNumber.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\bin\Debug\net6.0\Leetcode.StringNumber.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\refint\Leetcode.StringNumber.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\Leetcode.StringNumber.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.StringNumber\obj\Debug\net6.0\ref\Leetcode.StringNumber.dll
