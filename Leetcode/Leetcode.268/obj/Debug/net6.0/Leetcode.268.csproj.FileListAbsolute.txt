@@ -1,0 +1,15 @@
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\bin\Debug\net6.0\Leetcode.268.exe
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\bin\Debug\net6.0\Leetcode.268.deps.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\bin\Debug\net6.0\Leetcode.268.runtimeconfig.json
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\bin\Debug\net6.0\Leetcode.268.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\bin\Debug\net6.0\Leetcode.268.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.csproj.AssemblyReference.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.AssemblyInfoInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.AssemblyInfo.cs
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.csproj.CoreCompileInputs.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\refint\Leetcode.268.dll
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.pdb
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\Leetcode.268.genruntimeconfig.cache
+E:\Projects\NETs\NETRevise\Leetcode\Leetcode.268\obj\Debug\net6.0\ref\Leetcode.268.dll
